@@ -1,4 +1,4 @@
-import requests from "../requests.js"
+import requests from "../requests"
 import { useRouter } from "next/dist/client/router"
 function Nav() {
     const router = useRouter();
